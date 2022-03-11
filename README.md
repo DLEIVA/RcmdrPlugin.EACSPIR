@@ -3,7 +3,7 @@
 
 Overview
 ========
-steepness package allows users to quantify and test steepness of dominance hierarchies with R.
+R-Commander Plugin for a basic course on statistics.
 
 Installation instructions
 =========================
