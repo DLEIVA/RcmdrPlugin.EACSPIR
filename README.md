@@ -1,3 +1,4 @@
+[![R-CMD-check](https://github.com/DLEIVA/RcmdrPlugin.EACSPIR/workflows/R-CMD-check/badge.svg)](https://github.com/DLEIVA/RcmdrPlugin.EACSPIR/actions)
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
 [![Downloads](https://cranlogs.r-pkg.org/badges/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
 
