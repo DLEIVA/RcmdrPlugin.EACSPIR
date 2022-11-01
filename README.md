@@ -18,7 +18,7 @@ library(RcmdrPlugin.EACSPIR)
 ```
 
 
-The latest release of steepness is available on [CRAN](http://cran.r-project.org/web/packages/RcmdrPlugin.EACSPIR/):
+The latest release of RcmdrPlugin.EACSPIR is available on [CRAN](http://cran.r-project.org/web/packages/RcmdrPlugin.EACSPIR/):
 
 ```R
 install.packages("RcmdrPlugin.EACSPIR", dep = TRUE)
