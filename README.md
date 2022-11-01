@@ -1,5 +1,5 @@
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/RcmdrPlugin.EACSPIR)](http://cran.r-project.org/web/packages/RcmdrPlugin.EACSPIR)
-[![Downloads](http://cranlogs.r-pkg.org/badges/RcmdrPlugin.EACSPIR)](http://cran.rstudio.com/package=RcmdrPlugin.EACSPIR)
+[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
+[![Downloads](http://cranlogs.r-pkg.org/badges/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
 
 Overview
 ========
@@ -18,7 +18,7 @@ library(RcmdrPlugin.EACSPIR)
 ```
 
 
-The latest release of RcmdrPlugin.EACSPIR is available on [CRAN](http://cran.r-project.org/web/packages/RcmdrPlugin.EACSPIR/):
+The latest release of RcmdrPlugin.EACSPIR is available on [CRAN](https://CRAN.R-project.org/package=RcmdrPlugin.EACSPIR):
 
 ```R
 install.packages("RcmdrPlugin.EACSPIR", dep = TRUE)
