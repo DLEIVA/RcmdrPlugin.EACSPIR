@@ -1,5 +1,5 @@
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
-[![Downloads](http://cranlogs.r-pkg.org/badges/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
+[![Downloads](https://cranlogs.r-pkg.org/badges/RcmdrPlugin.EACSPIR)](https://cran.r-project.org/package=RcmdrPlugin.EACSPIR)
 
 Overview
 ========
