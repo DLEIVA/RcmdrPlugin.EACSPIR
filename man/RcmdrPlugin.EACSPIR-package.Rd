@@ -10,8 +10,8 @@
 \tabular{ll}{
 Package: \tab RcmdrPlugin.EACSPIR\cr
 Type: \tab Package\cr
-Version: \tab 0.2-2\cr
-Date: \tab 2015-03-03\cr
+Version: \tab 0.2-3\cr
+Date: \tab 2022-11-02\cr
 License: \tab GPL version 2 or newer\cr
 }
 }
